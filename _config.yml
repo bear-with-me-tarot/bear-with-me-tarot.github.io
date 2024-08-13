@@ -1,10 +1,10 @@
-url: http://csinva.github.io
+url: http://panda-curry.github.io
 baseurl: ""
 
 # Site Settings
-title: Chandan Singh
+title: ʕっ•ᴥ•ʔっ With Me
 description: "Let's do good with models"
-keywords: "Machine Learning, Chandan Singh, Berkeley, Interpretability, Explainability, Causal Inference"
+keywords: "Tarot, Numerology, Astrology, Bears"
 collections:
  blog:
     name: blog
