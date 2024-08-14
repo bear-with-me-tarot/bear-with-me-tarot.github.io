@@ -1,3 +1,7 @@
+body {
+ background-color: #FBFB00
+}
+
 .research_details summary::before {
     /* content: ">"; */
     color: ghostwhite;
