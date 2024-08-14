@@ -8,7 +8,7 @@
 .research_details[open] summary::before {
     /* content: "^"; */
     color: ghostwhite;
-    font-weight: bold;
+    font-weight: bold; 
     font-size: 1.5em;
 }
 
@@ -54,7 +54,7 @@ td {
 
     /* background-image: radial-gradient(blue, black); */
     /* background-image: linear-gradient(red, yellow); */
-    background: #FBFB00;
+    background: #000000;
     background-size: cover; /* background-image: radial-gradient(circle, blue 0.00001%, black 99.9999%); /* Standard syntax (must be last) */
 }
 
